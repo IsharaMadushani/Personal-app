@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Keep My Notes</string>
+    <string name="title_activity_task">task</string>
+    <string name="title_activity_target">targetActivity</string>
+    <string name="title_activity_notes">notesActivity</string>
+    <string name="title_activity_todo">todoActivity</string>
+    <string name="title_activity_basic">BasicActivity</string>
+    <string name="title_activity_homework">homeworkActivity</string>
+    <string name="title_activity_grocerry">grocerryActivity</string>
+    <string name="hm">Todays Homework</string>
+    <string name="gr">Add your grocerry item list here</string>
+    <string name="title_activity_travel">travelActivity</string>
+    <string name="title_activity_travel_add">travelAddActivity</string>
+    <string name="travel">My Travel Diaries</string>
+    <string name="todo">Add your todo list</string>
+</resources>
